@@ -5,6 +5,12 @@
   "description": "Extension-provided interactive widgets for controlling platform devices (proves the widget-provider + interaction architecture).",
   "author": "Waiveo",
   "license": "MIT",
+  "scripts": {
+    "test": "vitest run"
+  },
+  "devDependencies": {
+    "vitest": "^4.1.9"
+  },
   "waiveo": {
     "displayName": "Device Widgets",
     "category": "Devices",
