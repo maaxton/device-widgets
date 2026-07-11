@@ -1,0 +1,15 @@
+{
+  "name": "device-widgets",
+  "displayName": "Device Widgets",
+  "description": "Extension-provided interactive widgets for controlling platform devices.",
+  "category": "Widgets",
+  "recommended": false,
+  "hidden": false,
+  "uninstallable": true,
+  "provides": ["device-widgets"],
+  "requires": ["slidecast"],
+  "requiresImageDeps": [],
+  "minCoreVersion": "0.0.0",
+  "author": "Waiveo",
+  "license": "MIT"
+}
